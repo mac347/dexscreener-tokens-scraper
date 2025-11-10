@@ -1,0 +1,16 @@
+try:
+                return datetime.utcfromtimestamp(ts)
+            except (OverflowError, OSError, ValueError):
+                return None
+
+        return cls(
+            platform=platform or payload.get("platform"),
+            status=payload.get("status"),
+            softCapUsd=to_float(payload.get("softCapUsd") or payload.get("softCap")),
+            hardCapUsd=to_float(payload.get("hardCapUsd") or payload.get("hardCap")),
+            raisedUsd=to_float(payload.get("raisedUsd") or payload.get("raised")),
+            progressPercent=to_float(payload.get("progressPercent") or payload.get("progress")),
+            startTime=parse_ts(payload.get("startTime")),
+            endTime=parse_ts(payload.get("endTime")),
+            raw=payload,
+        )
