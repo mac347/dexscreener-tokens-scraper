@@ -1,0 +1,15 @@
+{
+  "dexscreener": {
+    "baseUrl": "https://api.dexscreener.com/latest/dex",
+    "timeoutSeconds": 10
+  },
+  "pagination": {
+    "maxPages": 1,
+    "pageSize": 50
+  },
+  "output": {
+    "directory": "data",
+    "jsonFilename": "tokens.json",
+    "csvFilename": "tokens.csv"
+  }
+}
