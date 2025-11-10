@@ -1,0 +1,42 @@
+[
+  {
+    "tokenName": "airfryer coin",
+    "tokenSymbol": "FRYER",
+    "priceUsd": 0.0001097,
+    "age": 2.2,
+    "transactionCount": 115,
+    "volumeUsd": 1000.0,
+    "makerCount": 61,
+    "priceChange5m": -0.0036,
+    "priceChange1h": -0.0036,
+    "priceChange6h": -0.0036,
+    "priceChange24h": -0.0036,
+    "liquidityUsd": 3300.0,
+    "marketCapUsd": 109707.0,
+    "boost": 1100,
+    "pairDetailUrl": "https://dexscreener.com/solana/29jupdw7nqgzeqx9m61jjkgagtg2w283aqyxtcrw6ssu",
+    "address": "4qTJV18HH5YUz9KSAdGEnVQuxPkR9c4gDwV7TaMxbonk",
+    "lowerPoolAddress": "29jupdw7nqgzeqx9m61jjkgagtg2w283aqyxtcrw6ssu",
+    "tokenImageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/4qTJV18HH5YUz9KSAdGEnVQuxPkR9c4gDwV7TaMxbonk.png?key=176c85"
+  },
+  {
+    "tokenSymbol": "MANBAT",
+    "tokenName": "Manbat Nemisis",
+    "priceUsd": 0.054593,
+    "marketCapUsd": 4500.0,
+    "age": 24.0,
+    "transactionCount": 9,
+    "volumeUsd": 273.0,
+    "makerCount": 9,
+    "priceChange5m": null,
+    "priceChange1h": 0.76,
+    "priceChange6h": 0.76,
+    "priceChange24h": -11.78,
+    "liquidityUsd": null,
+    "pairDetailUrl": "https://dexscreener.com/solana/cf3ztcluno2pmh4fijyl9j78zgdvr4j5dfjc8gcd9gag",
+    "address": null,
+    "lowerPoolAddress": "cf3ztcluno2pmh4fijyl9j78zgdvr4j5dfjc8gcd9gag",
+    "tokenImageUrl": "https://cdn.dexscreener.com/cms/images/7535d6a4d5e34e57904ea11588be2e30da95fa362989282fa6fbc21a2c2377e3?width=64&height=64&fit=crop&quality=95&format=auto",
+    "boost": 0
+  }
+]
