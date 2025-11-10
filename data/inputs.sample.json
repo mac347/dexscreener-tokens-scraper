@@ -1,0 +1,10 @@
+[
+  {
+    "query": "solana",
+    "maxPages": 1
+  },
+  {
+    "query": "ethereum",
+    "maxPages": 1
+  }
+]
